@@ -14,7 +14,7 @@
 > I once spent 3 hours debugging... only to find a missing semicolon 😅
 ┌──(abdallah㉿kali)-[~]
 └─$ status
-> Available for exciting projects ✅
+> Available for Full-time & Freelance work ✅
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=┌──(abdallah㉿kali)-[~];└─%24+sudo+apt+install+great-software;Angular+%7C+.NET+%7C+C%23+%7C+Python+%7C+Docker;Hacking+problems%2C+one+commit+at+a+time+💀)](https://git.io/typing-svg)
@@ -73,6 +73,55 @@
 <div align="center">
 
 ```bash
+┌──(abdallah㉿kali)-[~/education]
+└─$ cat degree.txt
+```
+
+</div>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+| 🏛️ | Details |
+|:---:|:---|
+| 🎓 | **B.Sc. Computer Science** |
+| 🌐 | **CCNA — Cisco Certified Network Associate** |
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+┌──(abdallah㉿kali)-[~/growth]
+└─$ cat currently_learning.log
+```
+
+</div>
+
+## 📡 Currently Learning
+
+<div align="center">
+
+```bash
+[████████████████░░░░] 80% — DevOps & CI/CD Pipelines
+[██████████░░░░░░░░░░] 50% — Container Orchestration (Kubernetes)
+[████████░░░░░░░░░░░░] 40% — Cloud Infrastructure & Automation
+```
+
+![DevOps](https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
 ┌──(abdallah㉿kali)-[~/projects]
 └─$ cat active_missions.txt
 ```
@@ -93,6 +142,57 @@
 > ┌──(abdallah㉿kali)-[~/projects]
 > └─$ echo "More targets incoming... stay tuned 👾"
 > ```
+
+---
+
+<div align="center">
+
+```bash
+┌──(abdallah㉿kali)-[~/stats]
+└─$ git log --all --oneline | wc -l
+```
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahh166&show_icons=true&theme=midnight-purple&border_color=5e17eb&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=ffffff&hide_border=false&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahh166&layout=compact&theme=midnight-purple&border_color=5e17eb&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=false" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahh166&theme=midnight-purple&background=0d0d0d&border=5e17eb&ring=a855f7&fire=ff6c37&currStreakLabel=a855f7&sideLabels=a855f7&dates=ffffff" />
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+┌──(abdallah㉿kali)-[~/opportunities]
+└─$ cat open_to.txt
+```
+
+</div>
+
+## 💼 Open To
+
+<div align="center">
+
+![Full-time](https://img.shields.io/badge/Full--time_Role-a855f7?style=for-the-badge&logo=briefcase&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance_Projects-5e17eb?style=for-the-badge&logo=upwork&logoColor=white)
+
+```bash
+> If you have an exciting mission, I'm ready to deploy. 🚀
+```
+
+</div>
 
 ---
 
