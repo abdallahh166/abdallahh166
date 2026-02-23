@@ -158,9 +158,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahh166&show_icons=true&theme=midnight-purple&border_color=5e17eb&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=ffffff&hide_border=false&count_private=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallahh166&theme=midnight_purple" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahh166&layout=compact&theme=midnight-purple&border_color=5e17eb&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=false" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallahh166&theme=midnight_purple" height="170"/>
 
 </div>
 
