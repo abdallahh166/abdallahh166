@@ -166,7 +166,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahh166&theme=midnight-purple&background=0d0d0d&border=5e17eb&ring=a855f7&fire=ff6c37&currStreakLabel=a855f7&sideLabels=a855f7&dates=ffffff" />
+<img src="https://streak-stats.demolab.com?user=abdallahh166&theme=midnight-purple&background=0d0d0d&border=5e17eb&ring=a855f7&fire=ff6c37&currStreakLabel=a855f7&sideLabels=a855f7&dates=ffffff" />
 
 </div>
 
